@@ -1,0 +1,22 @@
+{
+  "name": "SplitContainerCollectionView",
+  "version": "0.1.0",
+  "summary": "A short description of SplitContainerCollectionView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WataruSuzuki/SplitContainerCollectionView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WataruSuzuki": "wataru0406@hotmail.co.jp"
+  },
+  "source": {
+    "git": "https://github.com/WataruSuzuki/SplitContainerCollectionView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SplitContainerCollectionView/Classes/**/*"
+}

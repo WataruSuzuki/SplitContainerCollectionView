@@ -1,0 +1,6 @@
+framework module SplitContainerCollectionView {
+  umbrella header "SplitContainerCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}
